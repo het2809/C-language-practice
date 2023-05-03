@@ -8,6 +8,9 @@ int main()
 
 
 
+
+
+
     printf("enter number");
     scanf("%d", &a);
     switch (a)
