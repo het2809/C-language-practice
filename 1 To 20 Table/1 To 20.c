@@ -4,17 +4,6 @@ int main()
 {
     int a;
 
-
-//  123
-// 345
-
-
-
-
-
-
-
-
     printf("enter number");
     scanf("%d", &a);
     switch (a)
