@@ -3,7 +3,7 @@
 int main()
 {
     int a;
-    // 123
+    
 
 
     printf("enter number");
