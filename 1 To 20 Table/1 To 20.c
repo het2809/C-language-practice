@@ -4,6 +4,8 @@ int main()
 {
     int a;
 
+// this not
+
     printf("enter number");
     scanf("%d", &a);
     switch (a)
