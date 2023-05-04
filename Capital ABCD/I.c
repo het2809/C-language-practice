@@ -1,4 +1,4 @@
-#include<stdio.h>
+#include <stdio.h>
 
 int main()
 {
@@ -6,7 +6,7 @@ int main()
     {
         for (int j = 0; j < 5; j++)
         {
-            if (i==0||j==2||i==4)
+            if (i == 0 || j == 2 || i == 4)
             {
                 printf("* ");
             }
@@ -17,5 +17,4 @@ int main()
         }
         printf("\n");
     }
-    
 }

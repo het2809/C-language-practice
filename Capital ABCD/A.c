@@ -1,13 +1,14 @@
-#include<stdio.h>
+#include <stdio.h>
 
 int main()
-{   int x=5; 
-    int y=5;
+{
+    int x = 5;
+    int y = 5;
     for (int i = 0; i < 5; i++)
     {
         for (int j = 0; j < 10; j++)
         {
-            if (j==x || j==y|| j==5&i==2)
+            if (j == x || j == y || j == 5 & i == 2)
             {
                 printf("*");
             }
@@ -15,12 +16,9 @@ int main()
             {
                 printf(" ");
             }
-            
         }
-        x++; 
+        x++;
         y--;
         printf("\n");
     }
-    
 }
-
