@@ -25,7 +25,7 @@ int main()
     scanf("%f", &rad);
     printf("enter your rad for Circle area");
     scanf("%f", &rad);
-    printf("The Value Of Circle Area is %f",CirceAre(rad));
+    printf("The Value Of Circle Area is %f", CirceAre(rad));
 }
 
 float SquareArea(float side)
