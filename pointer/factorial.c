@@ -2,7 +2,7 @@
 int factorial(int a);
 int main()
 {
-     int a;
+    int a;
     printf("enter number");
     scanf("%d", &a);
 
@@ -10,15 +10,12 @@ int main()
 }
 int factorial(int a)
 {
-    if (a==0||a==1)
+    if (a == 0 || a == 1)
     {
         return 1;
     }
     else
     {
-        return a*factorial(a-1);
-        
+        return a * factorial(a - 1);
     }
-    
-    
 }

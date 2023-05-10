@@ -1,20 +1,19 @@
-#include<stdio.h>
+#include <stdio.h>
 
 int main()
 {
     int i;
     int n;
     printf("enter number");
-    scanf("%d",&i);
+    scanf("%d", &i);
     printf("enter number");
-    scanf("%d",&n);
-    if (i<n)
+    scanf("%d", &n);
+    if (i < n)
     {
-        printf("%d is the maximum number.",n);
+        printf("%d is the maximum number.", n);
     }
-    else 
+    else
     {
-        printf("%d is the maximum number",i);
+        printf("%d is the maximum number", i);
     }
-    
 }
