@@ -1,0 +1,29 @@
+#include <stdio.h>
+int main() {
+int n, i, j, space, num;
+printf("Enter the number of rows: ");
+scanf("%d", &n);
+for (i = 1; i <= n; i++) {
+for (space = 1; space <= n - i; space++) {
+printf(" ");
+}
+num = i;
+for (j = 1; j <= 2 * i - 1; j++) {
+printf("%d", num);
+j < i ? num-- : num++;
+}
+printf("\n");
+}
+for (i = n - 1; i >= 1; i--) {
+for (space = 1; space <= n - i; space++) {
+printf(" ");
+}
+num = i;
+for (j = 1; j <= 2 * i - 1; j++) {
+printf("%d", num);
+j < i ? num-- : num++;
+}
+printf("\n");
+}
+return 0;
+}
