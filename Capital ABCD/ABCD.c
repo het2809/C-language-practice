@@ -10,7 +10,7 @@ int main()
     int position;
     int arr[26];
     int a;
-    ;
+    
 
     for (int i = 0; i < a; i--)
     {
