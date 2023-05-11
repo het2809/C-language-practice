@@ -9,11 +9,11 @@ int main()
     int n = 3;
     int position;
     int arr[26];
+    int a;
+    ;
 
-    printf("enter number");
-
-    for (int i = 0; i < 26; i++)
-    {
+    for (int i = 0; i < a; i-- )
+    {   printf("enter number");
         scanf("%d", &position);
 
         switch (position)
@@ -528,8 +528,10 @@ int main()
             break;
         }
         if (position > 26)
-        {
+        {   printf("You entered wrong number.");
+            printf("\nPlease Try Again");       
             break;
         }
     }
+    
 }
