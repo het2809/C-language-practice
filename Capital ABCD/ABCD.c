@@ -12,8 +12,9 @@ int main()
     int a;
     ;
 
-    for (int i = 0; i < a; i-- )
-    {   printf("enter number");
+    for (int i = 0; i < a; i--)
+    {
+        printf("enter number");
         scanf("%d", &position);
 
         switch (position)
@@ -528,10 +529,10 @@ int main()
             break;
         }
         if (position > 26)
-        {   printf("You entered wrong number.");
-            printf("\nPlease Try Again");       
+        {
+            printf("You entered wrong number.");
+            printf("\nPlease Try Again");
             break;
         }
     }
-    
 }
