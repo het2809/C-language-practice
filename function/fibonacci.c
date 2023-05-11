@@ -1,27 +1,17 @@
 #include <stdio.h>
 
-int fib(int n);
-
 int main()
 {
-    int a;
-    printf("enter number");
-    scanf("%d", &a);
-    printf("fib of %d is %d\n",a, fib(a));
-}
+    int n;
+    printf("enter number (n>2)");
+    scanf("%d", &n);
+    int fib[n];
+     fib[0] = 0;
+     fib[1] = 1;
 
-int fib(int n)
-{
-    if (n == 0)
+    for (int i = 2; i < n; i++)
     {
-        return 0;
+        fib[i]=fib[i - 1] + fib[i - 2];
+        printf("%d\t", fib[i]);
     }
-    if (n == 1)
-    {
-        return 1;
-    }
-
-    int fibN = fib(n - 1) + fib(n - 2);
-  
-    return fibN;
 }

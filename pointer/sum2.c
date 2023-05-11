@@ -5,7 +5,7 @@ int main()
 {
     int a = 6;
     int b = 5;
-    printf("the sum is %d", sum(a, b));
+    printf("the sum is %f", sum(a, b));
 }
 int sum(int a, int b)
 {

@@ -6,9 +6,9 @@ int main()
 {
     int a;
     printf("enter number");
-    scanf("%d", &a);
+    scanf("%f", &a);
 
-    printf("the factorial of %d is %d", a, factorial(a));
+    printf("the factorial of %f is %f", a, factorial(a));
 }
 
 int factorial(int x)

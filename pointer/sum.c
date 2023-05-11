@@ -5,7 +5,7 @@ int main()
 {
     int a = 6;
     int b = 5;
-    printf("the sum is %d and %d=%d", a, b, sum(a, b));
+    printf("the sum is %f and %f=%f", a, b, sum(a, b));
 }
 int sum(int a, int b)
 {

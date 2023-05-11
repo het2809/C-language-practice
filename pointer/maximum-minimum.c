@@ -5,15 +5,15 @@ int main()
     int i;
     int n;
     printf("enter number");
-    scanf("%d", &i);
+    scanf("%f", &i);
     printf("enter number");
-    scanf("%d", &n);
+    scanf("%f", &n);
     if (i < n)
     {
-        printf("%d is the maximum number.", n);
+        printf("%f is the maximum number.", n);
     }
     else
     {
-        printf("%d is the maximum number", i);
+        printf("%f is the maximum number", i);
     }
 }

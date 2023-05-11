@@ -6,8 +6,8 @@ int main()
 {
     int n;
     printf("enter number");
-    scanf("%d", &n);
-    printf("the value is %d", multiplication(n));
+    scanf("%f", &n);
+    printf("the value is %f", multiplication(n));
 }
 int multiplication(int a)
 {

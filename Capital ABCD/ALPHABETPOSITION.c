@@ -8,8 +8,9 @@ int main()
     int t = 4;
     int n = 3;
     int position;
+
     printf("enter alphabet position");
-    scanf("%d", &position);
+    scanf("%f", &position);
     switch (position)
     {
     case 1:

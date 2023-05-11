@@ -6,11 +6,11 @@ int main()
 {
     int a, b, c;
     printf("enter a");
-    scanf("%d", &a);
+    scanf("%f", &a);
     printf("enter b");
-    scanf("%d", &b);
+    scanf("%f", &b);
     printf("enter c");
-    scanf("%d", &c);
+    scanf("%f", &c);
     printf("the average is %f", average(a, b, c));
 }
 

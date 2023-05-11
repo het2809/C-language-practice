@@ -10,7 +10,7 @@ int main()
     printf("address of m %p\n", &fx);
     printf("address of m %p\n\n", &cht);
 
-    printf("value of m %d\n", m);
+    printf("value of m %f\n", m);
     printf("value of fx %f\n", fx);
     printf("value of cht %c\n\n", cht);
 
@@ -18,7 +18,7 @@ int main()
     printf("address of m %p\n", &fx);
     printf("address of m %p\n\n", &cht);
 
-    printf("value of m %d\n", m);
+    printf("value of m %f\n", m);
     printf("value of fx %f\n", fx);
     printf("value of cht %c\n", cht);
 }

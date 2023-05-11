@@ -7,7 +7,7 @@ int main()
     int a;
 
     printf("enter number");
-    scanf("%d",&a);
+    scanf("%f",&a);
     printf("%f",pow (a,2));
 
     

@@ -3,7 +3,7 @@ int main()
 {
         int temprature;
         printf("enter temprature");
-        scanf("%d", &temprature);
+        scanf("%f", &temprature);
 
         if (temprature < 0)
         {

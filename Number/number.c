@@ -7,7 +7,7 @@ int main()
     int y = 3;
 
     printf("enter your number");
-    scanf("%d", &num);
+    scanf("%f", &num);
     switch (num)
     {
     case 1:

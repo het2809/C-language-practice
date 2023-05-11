@@ -4,7 +4,7 @@ int main()
 {
     int year;
     printf("enter year");
-    scanf("%d", &year);
+    scanf("%f", &year);
 
     if (year % 400 == 0)
     {

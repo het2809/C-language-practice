@@ -5,14 +5,14 @@ int main()
     int a;
     
     printf("enter number");
-    scanf("%d", &a);
+    scanf("%f", &a);
     switch (a)
     {
     case 1:
         for (int i = 1; i <= 10; i++)
         {
 
-            printf("1*%d=%d\n", i, i * 1);
+            printf("1*%f=%f\n", i, i * 1);
         }
         break;
 
@@ -21,7 +21,7 @@ int main()
         for (int i = 1; i <= 10; i++)
         {
 
-            printf("2*%d=%d\n", i, i * 2);
+            printf("2*%f=%f\n", i, i * 2);
         }
         break;
 
@@ -30,7 +30,7 @@ int main()
         for (int i = 1; i <= 10; i++)
         {
 
-            printf("3*%d=%d\n", i, i * 3);
+            printf("3*%f=%f\n", i, i * 3);
         }
         break;
     case 4:
@@ -38,7 +38,7 @@ int main()
         for (int i = 1; i <= 10; i++)
         {
 
-            printf("4*%d=%d\n", i, i * 4);
+            printf("4*%f=%f\n", i, i * 4);
         }
         break;
 
@@ -47,7 +47,7 @@ int main()
         for (int i = 1; i <= 10; i++)
         {
 
-            printf("5*%d=%d\n", i, i * 5);
+            printf("5*%f=%f\n", i, i * 5);
         }
         break;
     case 6:
@@ -55,7 +55,7 @@ int main()
         for (int i = 1; i <= 10; i++)
         {
 
-            printf("6*%d=%d\n", i, i * 6);
+            printf("6*%f=%f\n", i, i * 6);
         }
         break;
     case 7:
@@ -63,7 +63,7 @@ int main()
         for (int i = 1; i <= 10; i++)
         {
 
-            printf("7*%d=%d\n", i, i * 7);
+            printf("7*%f=%f\n", i, i * 7);
         }
         break;
     case 8:
@@ -71,7 +71,7 @@ int main()
         for (int i = 1; i <= 10; i++)
         {
 
-            printf("8*%d=%d\n", i, i * 8);
+            printf("8*%f=%f\n", i, i * 8);
         }
         break;
     case 9:
@@ -79,7 +79,7 @@ int main()
         for (int i = 1; i <= 10; i++)
         {
 
-            printf("9*%d=%d\n", i, i * 9);
+            printf("9*%f=%f\n", i, i * 9);
         }
         break;
     case 10:
@@ -87,77 +87,77 @@ int main()
         for (int i = 1; i <= 10; i++)
         {
 
-            printf("10*%d=%d\n", i, i * 10);
+            printf("10*%f=%f\n", i, i * 10);
         }
         break;
     case 11:
 
         for (int i = 1; i <= 10; i++)
         {
-            printf("11*%d=%d\n", i, i * 11);
+            printf("11*%f=%f\n", i, i * 11);
         }
         break;
      case 12:
 
         for (int i = 1; i <= 10; i++)
         {
-            printf("12*%d=%d\n", i, i * 12);
+            printf("12*%f=%f\n", i, i * 12);
         }
         break;
      case 13:
 
         for (int i = 1; i <= 10; i++)
         {
-            printf("13*%d=%d\n", i, i * 13);
+            printf("13*%f=%f\n", i, i * 13);
         }
         break;
      case 14:
 
         for (int i = 1; i <= 10; i++)
         {
-            printf("14*%d=%d\n", i, i * 14);
+            printf("14*%f=%f\n", i, i * 14);
         }
         break;
      case 15:
 
         for (int i = 1; i <= 10; i++)
         {
-            printf("15*%d=%d\n", i, i * 15);
+            printf("15*%f=%f\n", i, i * 15);
         }
         break;
      case 16:
 
         for (int i = 1; i <= 10; i++)
         {
-            printf("16*%d=%d\n", i, i * 16);
+            printf("16*%f=%f\n", i, i * 16);
         }
         break;
      case 17:
 
         for (int i = 1; i <= 10; i++)
         {
-            printf("17*%d=%d\n", i, i * 17);
+            printf("17*%f=%f\n", i, i * 17);
         }
         break;
      case 18:
 
         for (int i = 1; i <= 10; i++)
         {
-            printf("18*%d=%d\n", i, i * 18);
+            printf("18*%f=%f\n", i, i * 18);
         }
         break;
      case 19:
 
         for (int i = 1; i <= 10; i++)
         {
-            printf("19*%d=%d\n", i, i * 19);
+            printf("19*%f=%f\n", i, i * 19);
         }
         break;
      case 20:
 
         for (int i = 1; i <= 10; i++)
         {
-            printf("20*%d=%d\n", i, i * 20);
+            printf("20*%f=%f\n", i, i * 20);
         }
         break;
 
