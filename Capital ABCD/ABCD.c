@@ -7,18 +7,17 @@ int main()
     int e = 9;
     int t = 4;
     int n = 3;
-    int position;
-    int arr[26];
-    int a;
-
-    for (int i = 0; i < a; i--)
+    char q;
+    char position[50];
+    printf("Enter Your Name :");
+    fgets(position,50,stdin);
+    printf("your name is %s\n", position);
+    for (int i = 0; i < position[i]; i++)
     {
-        printf("enter number");
-        scanf("%d", &position);
-
-        switch (position)
+        printf("\n%c\n", position[i]);
+        switch (position[i])
         {
-        case 1:
+        case 'A':
             x = 5;
             y = 5;
             for (int i = 0; i < 5; i++)
@@ -39,7 +38,7 @@ int main()
                 printf("\n");
             };
             break;
-        case 2:
+        case 'B':
             for (int i = 0; i < 7; i++)
             {
                 for (int j = 0; j < 5; j++)
@@ -56,7 +55,7 @@ int main()
                 printf("\n");
             }
             break;
-        case 3:
+        case 'C':
             for (int i = 0; i < 5; i++)
             {
                 for (int j = 0; j < 5; j++)
@@ -73,7 +72,7 @@ int main()
                 printf("\n");
             }
             break;
-        case 4:
+        case 'D':
             for (int i = 0; i < 5; i++)
             {
                 for (int j = 0; j < 5; j++)
@@ -90,7 +89,7 @@ int main()
                 printf("\n");
             }
             break;
-        case 5:
+        case 'E':
             for (int i = 0; i < 7; i++)
             {
                 for (int j = 0; j < 6; j++)
@@ -107,7 +106,7 @@ int main()
                 printf("\n");
             }
             break;
-        case 6:
+        case 'F':
             for (int i = 0; i < 5; i++)
             {
                 for (int j = 0; j < 5; j++)
@@ -124,7 +123,7 @@ int main()
                 printf("\n");
             }
             break;
-        case 7:
+        case 'G':
             for (int i = 0; i < 5; i++)
             {
                 for (int j = 0; j < 5; j++)
@@ -142,7 +141,7 @@ int main()
             }
             break;
 
-        case 8:
+        case 'H':
             for (int i = 0; i < 5; i++)
             {
                 for (int j = 0; j < 5; j++)
@@ -160,7 +159,7 @@ int main()
             }
             break;
 
-        case 9:
+        case 'I':
             for (int i = 0; i < 5; i++)
             {
                 for (int j = 0; j < 5; j++)
@@ -178,7 +177,7 @@ int main()
             }
             break;
 
-        case 10:
+        case 'J':
             for (int i = 0; i < 5; i++)
             {
                 for (int j = 0; j < 5; j++)
@@ -196,7 +195,7 @@ int main()
             }
             break;
 
-        case 11:
+        case 'K':
             x = 5;
             for (int i = 1; i < 5; i++)
             {
@@ -233,7 +232,7 @@ int main()
             }
             break;
 
-        case 12:
+        case 'L':
             for (int i = 0; i < 5; i++)
             {
                 for (int j = 0; j < 5; j++)
@@ -250,7 +249,8 @@ int main()
                 printf("\n");
             }
             break;
-        case 13:
+
+        case 'M':
             h = 1;
             e = 9;
             for (int i = 0; i < 5; i++)
@@ -272,7 +272,7 @@ int main()
             }
             break;
 
-        case 14:
+        case 'N':
             x = 5;
             for (int i = 0; i < 5; i++)
             {
@@ -291,7 +291,7 @@ int main()
                 printf("\n");
             }
             break;
-        case 15:
+        case 'O':
             for (int i = 0; i < 5; i++)
             {
                 for (int j = 0; j < 5; j++)
@@ -308,7 +308,7 @@ int main()
                 printf("\n");
             }
             break;
-        case 16:
+        case 'P':
             for (int i = 0; i < 5; i++)
             {
                 for (int j = 0; j < 5; j++)
@@ -325,7 +325,7 @@ int main()
                 printf("\n");
             }
             break;
-        case 17:
+        case 'Q':
             x = 5;
             y = 5;
             for (int i = 0; i < 5; i++)
@@ -346,7 +346,7 @@ int main()
             }
             break;
 
-        case 18:
+        case 'R':
             t = 4;
             for (int i = 0; i < 5; i++)
             {
@@ -366,7 +366,7 @@ int main()
             }
             break;
 
-        case 19:
+        case 'S':
             for (int i = 0; i < 5; i++)
             {
                 for (int j = 0; j < 5; j++)
@@ -384,7 +384,7 @@ int main()
             }
             break;
 
-        case 20:
+        case 'T':
             for (int i = 0; i < 5; i++)
             {
                 for (int j = 0; j < 5; j++)
@@ -402,7 +402,7 @@ int main()
             }
             break;
 
-        case 21:
+        case 'U':
             for (int i = 0; i < 5; i++)
             {
                 for (int j = 0; j < 5; j++)
@@ -419,7 +419,7 @@ int main()
                 printf("\n");
             }
             break;
-        case 22:
+        case 'V':
             h = 1;
             e = 9;
             for (int i = 1; i < 6; i++)
@@ -441,7 +441,7 @@ int main()
             }
             break;
 
-        case 23:
+        case 'W':
             x = 5;
             y = 5;
             for (int i = 0; i < 5; i++)
@@ -463,7 +463,7 @@ int main()
             }
             break;
 
-        case 24:
+        case 'X':
             n = 3;
             e = 9;
             for (int i = 3; i <= 10; i++)
@@ -485,7 +485,7 @@ int main()
             }
             break;
 
-        case 25:
+        case 'Y':
             for (int i = 0; i < 5; i++)
             {
                 for (int j = 0; j < 5; j++)
@@ -504,7 +504,7 @@ int main()
             }
             break;
 
-        case 26:
+        case 'Z':
             x = 5;
             for (int i = 0; i <= 5; i++)
             {
@@ -525,12 +525,7 @@ int main()
             break;
 
         default:
-            break;
-        }
-        if (position > 26)
-        {
-            printf("You entered wrong number.");
-            printf("\nPlease Try Again");
+        
             break;
         }
     }
