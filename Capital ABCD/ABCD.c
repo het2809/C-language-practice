@@ -10,7 +10,7 @@ int main()
     char q;
     char position[50];
     printf("Enter Your Name :");
-    fgets(position,50,stdin);
+    fgets(position, 50, stdin);
     printf("your name is %s\n", position);
     for (int i = 0; i < position[i]; i++)
     {
@@ -525,7 +525,7 @@ int main()
             break;
 
         default:
-        
+
             break;
         }
     }
