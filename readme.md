@@ -1,5 +1,5 @@
-<p style="text-align: center;">
-![desktop-wallpaper-c-programming-language](https://github.com/het2809/C-language-practice/assets/132273406/3e30cd19-9c9d-48bb-9c24-547df6c0ab7c)
+![desktop-wallpaper-ternary-operators-in-c-language-c-programming](https://github.com/het2809/C-language-practice/assets/132273406/4ca726ad-0b2f-4673-bc30-f11685ee6ec0)
+
 
 
 # **Why Learn C ?**
