@@ -31,7 +31,7 @@
 
 # **BASIC SYNTEX OF C :**
 ```sh
-#inculde<stdio.h>
+#include<stdio.h>
     int main()
     {
     return 0;
