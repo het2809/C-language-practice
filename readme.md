@@ -1,4 +1,4 @@
-  <img src= "![desktop-wallpaper-c-programming-language](https://github.com/het2809/C-language-practice/assets/132273406/6b9579c2-4ee1-4217-9cb3-4d5b89e35d60)" width="500" height="200">|
+![desktop-wallpaper-c-programming-language](https://github.com/het2809/C-language-practice/assets/132273406/a9d93b49-1d3a-41f9-804f-04e68296ac80)
 
 # **Why Learn C ?**
  - Fewer Libraries. 
