@@ -1,3 +1,5 @@
+<p style="text-align: center;">
+![desktop-wallpaper-c-programming-language](https://github.com/het2809/C-language-practice/assets/132273406/3e30cd19-9c9d-48bb-9c24-547df6c0ab7c)
 
 
 # **Why Learn C ?**
