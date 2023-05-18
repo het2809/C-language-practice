@@ -1,11 +1,12 @@
 <p style="text-align: center;">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nrwl/nx/master/images/nx-dark.svg">
-    <img alt="Nx - Smart, Fast and Extensible Build System" src="https://raw.githubusercontent.com/nrwl/nx/master/images/nx-light.svg" width="100%">
+ 
+ ![desktop-wallpaper-ternary-operators-in-c-language-c-programming](https://github.com/het2809/C-language-practice/assets/132273406/4ca726ad-0b2f-4673-bc30-f11685ee6ec0)
+
   </picture>
 </p>
 
-<div style="text-align: center;">
+
 
 
 
@@ -110,4 +111,18 @@ integrates Visual Studio Code and CMake to make it easy to configure, build, and
 when you need to quickly verify a language feature, or if you want to individually verify that the logic within a module file is as expected.
 
 - PRETTIER :  
- Prettier is an opinionated code formatter which ensures one unified code format.
+ Prettier is an opinionated code formatter which ensures one unified code 
+ format.
+
+<br />
+
+# **CORE TEAM :**
+- HET KAKADIYA  
+<img src= "https://github.com/het2809/C-language-practice/assets/132273406/231e9654-f416-4203-8511-f6df83facb32" width="150" height="200">
+
+- GHANSHYAM TANCHAK
+
+    <img src= "https://github.com/het2809/C-language-practice/assets/132273406/7ee0ccc0-2798-4d4a-a3dd-bf480d8855dd" width="150" height="200">|
+
+
+
