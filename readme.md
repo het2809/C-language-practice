@@ -1,14 +1,4 @@
-<p style="text-align: center;">
-  <picture>
- 
- ![desktop-wallpaper-ternary-operators-in-c-language-c-programming](https://github.com/het2809/C-language-practice/assets/132273406/4ca726ad-0b2f-4673-bc30-f11685ee6ec0)
-
-  </picture>
-</p>
-
-
-
-
+![desktop-wallpaper-c-programming-language](https://github.com/het2809/C-language-practice/assets/132273406/a9d93b49-1d3a-41f9-804f-04e68296ac80)
 
 # **Why Learn C ?**
  - Fewer Libraries. 
