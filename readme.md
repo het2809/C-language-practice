@@ -1,4 +1,4 @@
-![desktop-wallpaper-ternary-operators-in-c-language-c-programming](https://github.com/het2809/C-language-practice/assets/132273406/4ca726ad-0b2f-4673-bc30-f11685ee6ec0)
+![desktop-wallpaper-c-programming-language](https://github.com/het2809/C-language-practice/assets/132273406/6b9579c2-4ee1-4217-9cb3-4d5b89e35d60)
 
 
 
