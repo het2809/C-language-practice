@@ -1,3 +1,14 @@
+<p style="text-align: center;">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nrwl/nx/master/images/nx-dark.svg">
+    <img alt="Nx - Smart, Fast and Extensible Build System" src="https://raw.githubusercontent.com/nrwl/nx/master/images/nx-light.svg" width="100%">
+  </picture>
+</p>
+
+<div style="text-align: center;">
+
+
+
 # **Why Learn C ?**
  - Fewer Libraries. 
  - Embedded Programming.
@@ -51,6 +62,21 @@
 
 <br />
 
+# **WHERE CAN WE WRITE CODE ?**
+- VS CODE
+- TURBO C++
+- CODE BLOCK
+- NOTEPAD
+- NOTEPAD++
+
+
+<br />
+
+# **WHY SHOULD WE USE VS CODE FOR CODING?**
+- Visual Studio Code is “a free-editor that helps the programmer write code, helps in debugging and corrects the code using the intelli-sense method ”.
+
+<br />
+
 # **WHERE TO LEARN :**
 FOR HINDI LANGUAGE **:**
 - APNA COLLEGE - [https://youtu.be/irqbmMNs2Bo]
@@ -63,7 +89,7 @@ FOR ENGLISH LANGUAGE **:**
 
 <br />
 
-# **EXTENSION :**
+# **EXTENSIONS :**
 
  - C/C++:   
  adds language support for C/C++ to Visual Studio Code, including editing (IntelliSense) and debugging features.
