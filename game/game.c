@@ -3,7 +3,6 @@
 #include <time.h>
 
 int RockPaperScissor(char you, char comp);
-// s-r w-p g-s
 int main()
 {
     char you, comp;
