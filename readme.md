@@ -105,13 +105,7 @@ when you need to quickly verify a language feature, or if you want to individual
 
 <br />
 
-# **CORE TEAM :**
-- HET KAKADIYA  
-<img src= "https://github.com/het2809/C-language-practice/assets/132273406/231e9654-f416-4203-8511-f6df83facb32" width="150" height="200">
 
-- GHANSHYAM TANCHAK
-
-<img src= "https://github.com/het2809/C-language-practice/assets/132273406/7ee0ccc0-2798-4d4a-a3dd-bf480d8855dd" width="150" height="200">|
 
 
 
